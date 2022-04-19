@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\notaalunos\notaalunos\bin\Debug\net6.0\notaalunos.exe
+C:\Users\User\source\repos\notaalunos\notaalunos\bin\Debug\net6.0\notaalunos.deps.json
+C:\Users\User\source\repos\notaalunos\notaalunos\bin\Debug\net6.0\notaalunos.runtimeconfig.json
+C:\Users\User\source\repos\notaalunos\notaalunos\bin\Debug\net6.0\notaalunos.dll
+C:\Users\User\source\repos\notaalunos\notaalunos\bin\Debug\net6.0\ref\notaalunos.dll
+C:\Users\User\source\repos\notaalunos\notaalunos\bin\Debug\net6.0\notaalunos.pdb
+C:\Users\User\source\repos\notaalunos\notaalunos\obj\Debug\net6.0\notaalunos.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\notaalunos\notaalunos\obj\Debug\net6.0\notaalunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\notaalunos\notaalunos\obj\Debug\net6.0\notaalunos.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\notaalunos\notaalunos\obj\Debug\net6.0\notaalunos.AssemblyInfo.cs
+C:\Users\User\source\repos\notaalunos\notaalunos\obj\Debug\net6.0\notaalunos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\notaalunos\notaalunos\obj\Debug\net6.0\notaalunos.dll
+C:\Users\User\source\repos\notaalunos\notaalunos\obj\Debug\net6.0\ref\notaalunos.dll
+C:\Users\User\source\repos\notaalunos\notaalunos\obj\Debug\net6.0\notaalunos.pdb
+C:\Users\User\source\repos\notaalunos\notaalunos\obj\Debug\net6.0\notaalunos.genruntimeconfig.cache
